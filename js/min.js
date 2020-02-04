@@ -5,4 +5,4 @@ window.onload = function (){
     click.addEventListener('click', function () {
         change.style.color = 'red';
     })
-}
+}//changed
